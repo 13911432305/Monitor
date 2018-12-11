@@ -1,0 +1,77 @@
+#div_1 {
+	background-color: #333333;
+	overflow: hidden;
+	position: absolute;
+	visibility: inherit;
+	z-index: auto;
+	height: 14.1cm;
+	width: 27.1cm;
+	left: 128px;
+	top: 40px;
+	-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+#div_2 {
+	height: 2cm;
+	width: 100%;
+	background-color: #CCCCCC;
+}
+#div_3 {
+	font-size: 36px;
+	position: relative;
+	left: 1cm;
+	top: 3mm;
+}
+#div_4 {
+	overflow: hidden;
+	position: relative;
+	visibility: inherit;
+	z-index: auto;
+	height: 11.5cm;
+	width: 6cm;
+	left: 3mm;
+	top: 3mm;
+	bottom: 3px;
+	background-color: #CCFFFF;
+	-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+	border-radius: 10px;
+	clear: left;
+	float: left;
+}
+#div_5 {
+	background-color: #CCFFFF;
+	position: relative;
+	top: 3mm;
+	right: 3mm;
+	height: 11.5cm;
+	width: 20.3cm;
+	bottom: 3mm;
+	clear: right;
+	float: right;
+	-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+#div_6 {
+	height: 95%;
+	width: 97%;
+	left: 3mm;
+	top: 3mm;
+	right: 3mm;
+	bottom: 3mm;
+	position: absolute;
+}
+#iframe_1 {
+	height: 100%;
+	width: 100%;
+}
+#span_return {
+	font-size: 18px;
+	position: relative;
+	right: 2cm;
+	top: 0.8cm;
+	clear: right;
+	float: right;
+}

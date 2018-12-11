@@ -1,0 +1,113 @@
+#div_1 {
+	background-color: #333333;
+	overflow: hidden;
+	position: absolute;
+	visibility: inherit;
+	z-index: auto;
+	height: 14.1cm;
+	width: 27.1cm;
+	left: 128px;
+	top: 40px;
+	-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+#div_2 {
+	height: 2cm;
+	width: 100%;
+	background-color: #6666FF;
+}
+#div_7 #div_8 #div_9 #div_10 #div_11 #div_12 {
+	border: 1px dashed #FF7F00;
+	height: 10%;
+	width: 100%;
+}
+#div_3 {
+	font-size: 36px;
+	position: relative;
+	left: 1cm;
+	top: 3mm;
+}
+#div_4 {
+	overflow: hidden;
+	position: relative;
+	visibility: inherit;
+	z-index: auto;
+	height: 11.5cm;
+	width: 6cm;
+	right: 3mm;
+	top: 3mm;
+	bottom: 3px;
+	background-color: #CCFFFF;
+	-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+	border-radius: 10px;
+	clear: right;
+	float: right;
+}
+#div_5 {
+	background-color: #CCFFFF;
+	position: relative;
+	top: 3mm;
+	left: 3mm;
+	height: 11.5cm;
+	width: 20.3cm;
+	bottom: 3mm;
+	clear: left;
+	float: left;
+	-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+	border-radius: 10px;
+	background-image: url(../image/earth.jpg);
+	background-repeat: repeat;
+	background-attachment: scroll;
+	background-position: center center;
+}
+#div_6 {
+	height: 95%;
+	width: 97%;
+	left: 3mm;
+	top: 3mm;
+	right: 3mm;
+	bottom: 3mm;
+	position: absolute;
+}
+#div_4_1 {
+	clear: both;
+	float: left;
+	height: 1.2cm;
+	width: 100%;
+	line-height: 1.2cm;
+	z-index: auto;
+}
+li {
+	width: 100%;
+	height: 10mm;
+}
+#iframe_1 {
+	height: 100%;
+	width: 100%;
+}
+#span_return {
+	font-size: 18px;
+	position: relative;
+	right: 2cm;
+	top: 0.8cm;
+	clear: right;
+	float: right;
+}
+a{
+	text-decoration:none;
+}
+a:link {
+ color: #000000;
+ text-decoration: none;
+}
+a:visited {
+ color: #000000;
+ text-decoration: none;
+}
+a:hover {
+ color: #999999;
+ text-decoration: none;
+}

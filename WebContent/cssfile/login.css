@@ -1,0 +1,188 @@
+#div_1 {
+	overflow: hidden;
+	position: absolute;
+	visibility: inherit;
+	z-index: auto;
+	height: 14.1cm;
+	width: 27.1cm;
+	left: 128px;
+	top: 40px;
+	-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+	border-radius: 10px;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+#div_2 {
+	clear: none;
+	float: none;
+	height: 5.5cm;
+	width: 8.1cm;
+	position: absolute;
+	visibility: inherit;
+	z-index: auto;
+	overflow: hidden;
+	background-position: center center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	left: 95mm;
+	top: 43mm;
+	-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+	border-radius: 10px;
+	background-color: #999999;
+}
+#div_3 {
+	background-attachment: scroll;
+	background-color: #CCFF00;
+	background-repeat: no-repeat;
+	background-position: center top;
+	height: 20%;
+	width: 100%;
+}
+#div_6 {
+	clear: none;
+	float: none;
+	height: 8mm;
+	overflow: hidden;
+	position: absolute;
+	visibility: inherit;
+	z-index: auto;
+	left: 3px;
+	top: 70px;
+	width: 260px;
+}
+#div_11 {
+	overflow: hidden;
+	position: absolute;
+	visibility: inherit;
+	z-index: auto;
+	left: 25mm;
+	top: 3px;
+	height: 6.35mm;
+	clear: right;
+	float: right;
+	padding: 0px;
+	width: 150px;
+}
+#div_4 {
+	background-position: center center;
+	clear: none;
+	float: none;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	vertical-align: middle;
+	text-align: center;
+	clip: rect(auto,auto,auto,auto);
+	overflow: hidden;
+	position: absolute;
+	visibility: inherit;
+	z-index: auto;
+	top: 7px;
+	width: 281px;
+	height: 33px;
+	left: 2px;
+}
+#div_7 {
+	overflow: hidden;
+	position: relative;
+	visibility: inherit;
+	z-index: auto;
+	left: 10px;
+	width: 30%;
+	padding: 2px;
+	top: 3px;
+}
+#div_8 {
+	height: 6.35mm;
+	overflow: hidden;
+	position: absolute;
+	visibility: inherit;
+	z-index: auto;
+	background-position: center center;
+	clear: right;
+	float: right;
+	left: 25mm;
+	top: 3px;
+	width: 150px;
+}
+#div_12 {
+	overflow: hidden;
+	position: absolute;
+	visibility: inherit;
+	z-index: auto;
+	left: 22px;
+	top: 150px;
+	width: 225px;
+	height: 40px;
+}
+#div_9 {
+	overflow: hidden;
+	position: absolute;
+	visibility: inherit;
+	z-index: auto;
+	left: 4px;
+	top: 110px;
+	width: 259px;
+	height: 31px;
+}
+#div_15 {
+	color: #FF0000;
+	overflow: hidden;
+	position: absolute;
+	visibility: inherit;
+	z-index: auto;
+	left: 100px;
+	top: 45px;
+}
+#div_10 {
+	overflow: hidden;
+	position: relative;
+	visibility: inherit;
+	z-index: auto;
+	left: 10px;
+	margin: 1px;
+	padding: 1px;
+	width: 25%;
+	top: 3px;
+}
+.input1 {
+	width: 100%;
+	height: 100%;
+}
+#div_13 {
+	overflow: hidden;
+	position: absolute;
+	visibility: inherit;
+	z-index: auto;
+	left: 20px;
+	top: 7px;
+	width: 70px;
+	height: 28px;
+}
+.STYLE3 {font-size: 24px}
+#div_14 {
+	overflow: hidden;
+	position: absolute;
+	visibility: inherit;
+	z-index: auto;
+	top: 7px;
+	width: 70px;
+	height: 28px;
+	right: 20px;
+}
+.STYLE4 {font-size: 14px}
+.input2 {
+	height: 100%;
+	width: 100%;
+}
+.input3 {
+	height: 100%;
+	width: 100%;
+}
+.input4 {
+	clear: none;
+	float: none;
+	height: 100%;
+	width: 100%;
+}

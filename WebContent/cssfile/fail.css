@@ -1,0 +1,49 @@
+#div_2 {
+	overflow: hidden;
+	position: absolute;
+	visibility: inherit;
+	z-index: auto;
+	left: 80px;
+	top: 73px;
+}
+#div_3 {
+	overflow: hidden;
+	position: absolute;
+	visibility: inherit;
+	z-index: auto;
+	left: 129px;
+	top: 66px;
+	width: 470px;
+	height: 80px;
+	text-align: left;
+	vertical-align: sub;
+}
+#span_1 {
+	font-size: 24px;
+	text-align: left;
+	top: 2mm;
+	position: relative;
+	height: 100%;
+	width: 100%;
+}
+#div_4 {
+	overflow: hidden;
+	position: absolute;
+	visibility: inherit;
+	z-index: auto;
+	left: 237px;
+	top: 171px;
+	font-size: 24px;
+}
+#div_1 {
+	text-align: center;
+	height: 7.355cm;
+	width: 17.595cm;
+	overflow: hidden;
+	position: absolute;
+	visibility: visible;
+	z-index: auto;
+	left: 41px;
+	top: 29px;
+	border: thin solid #000000;
+}

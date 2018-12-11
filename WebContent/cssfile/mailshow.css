@@ -1,0 +1,17 @@
+#div_1 {
+	height: 97%;
+	width: 97%;
+	overflow: scroll;
+	position: absolute;
+	visibility: inherit;
+	z-index: auto;
+	left: 10px;
+	top: 10px;
+}
+td {
+	height: 7mm;
+	width: 3cm;
+	text-align: center;
+	vertical-align: middle;
+}
+td {font-size: 11px}
